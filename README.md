@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.vecteezy.com/vector-art/49653779-glitch-tech-banners-stylish-abstract-frame-designs-featuring-purple-and-blue-hues-with-a-technological-theme" alt="Glitch Tech Banner" width="800"/>
+  <img src="./banner.png" alt="Frozmiz Banner" width="700"/>
 </p>
+
 
 <h1 align="center">👾 Frozmiz — Full Stack Developer & AI Enthusiast</h1>
 <p align="center">
