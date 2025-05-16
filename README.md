@@ -29,7 +29,7 @@
 
 ## 📌 Current Projects
 
-### 🧭 [Slowork](https://www.slowork.app)
+- ## 🧭 [Slowork](https://www.slowork.app)
 > A curated platform connecting remote workers with inspiring places, sustainable accommodations, and a global community.
 
 > ✨ Features:
@@ -40,18 +40,18 @@
 - Markdown-powered article editor and Supabase integration
 - Secure admin panel using localStorage auth logic
 
-🧰 Stack: `React`, `Supabase`, `TailwindCSS`, `Vercel`, `Cloudinary`, `i18next`
+🛠️ Stack: `React`, `Supabase`, `TailwindCSS`, `Vercel`, `Cloudinary`, `i18next`
 
-- ### 🧘‍♂️ [breathe-app](https://github.com/Frozmiz/breathe-app)
-> A mindful mapping app that locates nearby parks using your real-time geolocation and OpenStreetMap data.
->
-> ✨ Features:
-> - Lazy-loaded parks using viewport detection
-> - Animated overlay with inspirational messages
-> - Compatibility with OSM `node`, `way`, `relation`
-> - Elegant Tailwind styling and recenter button
->
-> 🛠️ Stack: `React`, `Leaflet`, `Overpass API`, `TailwindCSS`
+- ## 🧘‍♂️ [breathe-app](https://github.com/Frozmiz/breathe-app)
+ > A mindful mapping app that locates nearby parks using your real-time geolocation and OpenStreetMap data.
+
+ > ✨ Features:
+ - Lazy-loaded parks using viewport detection
+ - Animated overlay with inspirational messages
+ - Compatibility with OSM `node`, `way`, `relation`
+ - Elegant Tailwind styling and recenter button
+
+ 🛠️ Stack: `React`, `Leaflet`, `Overpass API`, `TailwindCSS`
 
 ---
 
