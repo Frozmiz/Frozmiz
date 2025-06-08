@@ -29,18 +29,25 @@
 
 ## 📌 Current Projects
 
-- ## 🧭 [Slowork](https://www.slowork.app)
-> A curated platform connecting remote workers with inspiring places, sustainable accommodations, and a global community.
+## 🧭 Slowork Landing Page  
+A bold and elegant introduction to the Slowork project, announcing our vision to connect remote workers with meaningful travel, sustainable stays, and a purpose-driven community.
 
-> ✨ Features:
-- Dynamic blog with admin-only post creation and edit
-- Background video with smooth transitions and dark mode support
-- Multilingual support via `i18next` and SEO-optimized routing
-- Responsive layout with TailwindCSS and Cloudinary video handling
-- Markdown-powered article editor and Supabase integration
-- Secure admin panel using localStorage auth logic
+---
 
-🛠️ Stack: `React`, `Supabase`, `TailwindCSS`, `Vercel`, `Cloudinary`, `i18next`
+### ✨ Features
+
+- Immersive **background video** with smooth transitions
+- **Dark mode toggle** with clean, modern UI
+- **Multilingual support** using `i18next` and SEO-friendly routing
+- **Responsive design** with TailwindCSS and Cloudinary-powered visuals
+- Embedded **dynamic blog preview** with admin-only content creation
+- Secure **admin panel** using localStorage-based authentication
+
+---
+
+### 🛠️ Tech Stack  
+**React** · **Supabase** · **TailwindCSS** · **Vercel** · **Cloudinary** · **i18next**
+
 
 - ## 🧘‍♂️ [breathe-app](https://github.com/Frozmiz/breathe-app)
  > A mindful mapping app that locates nearby parks using your real-time geolocation and OpenStreetMap data.
@@ -54,6 +61,30 @@
  🛠️ Stack: `React`, `Leaflet`, `Overpass API`, `TailwindCSS`
 
 ---
+
+## 🚧 Slowork Web Platform — In Development
+
+**Slowork** is a web platform in active development, built for digital nomads, remote workers, and global entrepreneurs.  
+We’re creating a space for distributed work, practical learning, and mindful connection.
+
+---
+
+### 🛠️ Tech Stack
+
+- ⚛️ **React** – Frontend SPA framework
+- 🎨 **TailwindCSS** – Utility-first CSS styling
+- 🧱 **Material UI** – Accessible component library
+- 🔗 **GraphQL** – Flexible data layer for frontend/backend communication
+- ⚛️ **Apollo Client** – GraphQL client for data fetching and mutations
+- ⚙️ **Webpack 5** – Custom module bundler
+- 🧵 **PostCSS** + **Babel** – Modern tooling for CSS and JS
+
+---
+
+### 🧠 Vision
+
+To build a scalable, resilient platform aligned with the future of remote and decentralized work.
+
 
 ## 🛠️ Technologies I Use
 
