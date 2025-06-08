@@ -32,8 +32,6 @@
 ## 🧭 Slowork Landing Page  
 A bold and elegant introduction to the Slowork project, announcing our vision to connect remote workers with meaningful travel, sustainable stays, and a purpose-driven community.
 
----
-
 ### ✨ Features
 
 - Immersive **background video** with smooth transitions
