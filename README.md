@@ -43,7 +43,6 @@ A bold and elegant introduction to the Slowork project, announcing our vision to
 - Embedded **dynamic blog preview** with admin-only content creation
 - Secure **admin panel** using localStorage-based authentication
 
----
 
 ### 🛠️ Tech Stack  
 **React** · **Supabase** · **TailwindCSS** · **Vercel** · **Cloudinary** · **i18next**
@@ -68,7 +67,6 @@ A bold and elegant introduction to the Slowork project, announcing our vision to
 **Slowork** is a web platform in active development, built for digital nomads, remote workers, and global entrepreneurs.  
 We’re creating a space for distributed work, practical learning, and mindful connection.
 
----
 
 ### 🛠️ Tech Stack
 
@@ -80,7 +78,6 @@ We’re creating a space for distributed work, practical learning, and mindful c
 - ⚙️ **Webpack 5** – Custom module bundler
 - 🧵 **PostCSS** + **Babel** – Modern tooling for CSS and JS
 
----
 
 ### 🧠 Vision
 
