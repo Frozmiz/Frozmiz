@@ -29,6 +29,7 @@
 
 ## 📌 Current Projects
 
+
 ## 🧭 Slowork Landing Page  
 A bold and elegant introduction to the Slowork project, announcing our vision to connect remote workers with meaningful travel, sustainable stays, and a purpose-driven community.
 
@@ -45,7 +46,9 @@ A bold and elegant introduction to the Slowork project, announcing our vision to
 ### 🛠️ Tech Stack  
 **React** · **Supabase** · **TailwindCSS** · **Vercel** · **Cloudinary** · **i18next**
 
+
 ---
+
 
 ## 🧘‍♂️ [breathe-app](https://github.com/Frozmiz/breathe-app)
  > A mindful mapping app that locates nearby parks using your real-time geolocation and OpenStreetMap data.
@@ -80,6 +83,8 @@ We’re creating a space for distributed work, practical learning, and mindful c
 ### 🧠 Vision
 
 To build a scalable, resilient platform aligned with the future of remote and decentralized work.
+
+
 
 
 ## 🛠️ Technologies I Use
