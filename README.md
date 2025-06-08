@@ -48,8 +48,9 @@ A bold and elegant introduction to the Slowork project, announcing our vision to
 ### 🛠️ Tech Stack  
 **React** · **Supabase** · **TailwindCSS** · **Vercel** · **Cloudinary** · **i18next**
 
+---
 
-- ## 🧘‍♂️ [breathe-app](https://github.com/Frozmiz/breathe-app)
+## 🧘‍♂️ [breathe-app](https://github.com/Frozmiz/breathe-app)
  > A mindful mapping app that locates nearby parks using your real-time geolocation and OpenStreetMap data.
 
  > ✨ Features:
