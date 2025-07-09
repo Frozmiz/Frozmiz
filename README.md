@@ -100,12 +100,15 @@ To build a scalable, resilient platform aligned with the future of remote and de
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase" />
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Claude-4B0082?style=for-the-badge" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/-Cursor-9146FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor IDE" />
 </p>
 
 - **Web Development**: HTML, CSS, JavaScript, React, Next.js
 - **Backend Technologies**: Python, Node.js, Supabase
 - **Databases**: MySQL
 - **Deployment / Hosting**: Vercel
+- **AI Tools**: Claude, Cursor
 - **Learning and growing in** → Machine Learning, AI (Python based)
 
 ---
