@@ -142,5 +142,5 @@ Continuously learning and applying advanced development techniques and AI soluti
 - **GitHub** → [@Frozmiz](https://github.com/Frozmiz)
 
 <p align="center">
-  Thanks for visiting my profile 🚀 See you in the code!
+  Thanks for visiting my profile 🚀 See you in the code! <3
 </p>
