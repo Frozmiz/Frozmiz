@@ -44,7 +44,7 @@ A bold and elegant introduction to the Slowork project, announcing our vision to
 
 
 ### 🛠️ Tech Stack  
-**React** · **Supabase** · **TailwindCSS** · **Vercel** · **Cloudinary** · **i18next**
+**React** · **Supabase** · **TailwindCSS** · **Vercel** · **Cloudinary** · **i18next** .
 
 
 ---
