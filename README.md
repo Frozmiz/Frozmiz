@@ -71,12 +71,11 @@ We’re creating a space for distributed work, practical learning, and mindful c
 
 ### 🛠️ Tech Stack
 
-- ⚛️ **React** – Frontend SPA framework
+- ⚛️ **Angular** – Frontend SPA framework
 - 🎨 **TailwindCSS** – Utility-first CSS styling
 - 🧱 **Material UI** – Accessible component library
 - 🔗 **GraphQL** – Flexible data layer for frontend/backend communication
 - ⚛️ **Apollo Client** – GraphQL client for data fetching and mutations
-- ⚙️ **Webpack 5** – Custom module bundler
 - 🧵 **PostCSS** + **Babel** – Modern tooling for CSS and JS
 
 
