@@ -105,7 +105,7 @@ My workflow integrates **AI Context Engineering** (via **[ENGRAM](https://github
 ## 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frozmiz&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats-gamma-hazel.vercel.app/api?username=Frozmiz&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 ---
